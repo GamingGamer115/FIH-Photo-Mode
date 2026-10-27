@@ -1,16 +1,17 @@
 # FIH-Photo-Mode
 
-Keybinds
-F1:  Take a screenshot (a Save As window asks where to save it)
-F2:  Hide or show the HUD
-F3:  Freeze or resume time (single-player only)
-F4:  Turn post-processing off or on
-F5:  Toggle the game’s built-in clean-capture camera mode
-F6:  Show or hide the keybind menu
-Home:  Free camera on/off
-PageUp / PageDown:  Hold to widen / narrow the field of view
-End:  Give the field of view back to the game
-\ (backslash):  Rule-of-thirds composition grid
+| Keybinds | Feature |
+| :--- | :--- |
+| F1 | Take a screenshot (a Save As window asks where to save it) |
+| F2 | Hide or show the HUD |
+| F3 | Freeze or resume time (single-player only) |
+| F4 | Turn post-processing off or on |
+| F5 | Toggle the game’s built-in clean-capture camera mode |
+| F6 | Show or hide the keybind menu |
+| Home | Free camera on/off |
+| PageUp / PageDown | Hold to widen / narrow the field of view |
+| End | Give the field of view back to the game |
+| \ | Rule-of-thirds composition grid |
 
 Free camera controls: W/A/S/D to move, Space and Ctrl to go up and down, Shift for fast, Alt for slow, mouse to look, mouse wheel to change FOV.
 
