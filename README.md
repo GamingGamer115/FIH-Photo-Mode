@@ -1,6 +1,6 @@
 # FIH-Photo-Mode
 
-| Keybinds | Feature |
+| Keybind | Feature |
 | :--- | :--- |
 | F1 | Take a screenshot (a Save As window asks where to save it) |
 | F2 | Hide or show the HUD |
